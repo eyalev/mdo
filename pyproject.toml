@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mdo"
-version = "0.1.3"
+version = "0.1.4"
 description = ""
 authors = ["Eyal Levin <eyalev@gmail.com>"]
 
