@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mdo"
+version = "0.1.3"
+description = ""
+authors = ["Eyal Levin <eyalev@gmail.com>"]
+
+[tool.poetry.scripts]
+mdo = "mdo.cli:cli"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+click = "^7.1.2"
+rich = "^1.0.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = {version = "^19.10b0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
