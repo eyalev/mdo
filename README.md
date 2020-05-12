@@ -34,7 +34,11 @@ $ mdo FILE
 # E.g: mdo README.md
 ```
 
-From `$ mdo --help`:
+### Help Output
+
+```
+$ mdo --help
+```
 
 ```
 Usage: mdo [FILE_PATH] [OPTIONS]
