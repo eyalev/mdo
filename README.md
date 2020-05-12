@@ -1,6 +1,6 @@
 # mdo
 
-View markdown documents in the terminal.
+Terminal markdown viewer.
 
 Based on [github.com/willmcgugan/rich](https://github.com/willmcgugan/rich).
 
