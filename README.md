@@ -1,9 +1,16 @@
-
 # mdo
 
 View markdown documents in the terminal.
 
 Markdown rendering is done by [Rich](https://github.com/willmcgugan/rich).
+
+## Example
+
+```
+$ mdo examples/README.md
+```
+
+![mdo](examples/mdo.png)
 
 ## Install
 
